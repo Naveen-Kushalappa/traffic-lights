@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    -webkit-font-smoothing: auto;
+    -moz-font-smoothing: auto;
+    -moz-osx-font-smoothing: grayscale;
+    font-smoothing: auto;
+    text-rendering: optimizeLegibility;
+    font-smooth: always;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+}
+
+h1 {
+    font-size: 1.5rem;
+}
+
+.green {
+    background-color: green;
+}
+
+.red {
+    background-color: red;
+}
+.yellow {
+    background-color: yellow;
+}
+
+.white {
+    background-color: whitesmoke;
+}
+
+.button{
+    margin-top: 10px;
+    padding: 5px;
+}
+
+#circle {
+    height:  40px;
+    width: 40px;
+    border-radius: 30px;
+}
+
